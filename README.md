@@ -1,6 +1,24 @@
 # SQL-Financial-Dataset-Summary
+
+# Financial Dataset Summary for Power BI Reports
+
+## 📌 Overview
 -- Description: This query generates a summarized dataset combining user demographic and financial data with card information.
 -- It masks user IDs, categorizes income and credit score, and provides insights into users' financial behavior.
+
+## 🛠️ Technologies Used
+- MySQL Workbench
+- SQL Queries
+- Data Cleaning & Aggregation
+
+## 📊 Key Features
+- Masked User IDs for privacy
+- Income and credit score categorization
+- Debt-to-income ratio calculation
+- Card fraud risk assessment
+
+## 🚀 Usage
+Run `financial_summary.sql` in MySQL to generate the summary dataset.
 
 Code
 
